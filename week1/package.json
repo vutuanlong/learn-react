@@ -1,0 +1,10 @@
+{
+  "name": "week1",
+  "type": "module",
+  "scripts": {
+    "vd1": "node 01-let-const-arrow.js",
+    "vd2": "node 02-destructuring-spread.js",
+    "vd3": "node 03-array-methods.js",
+    "test": "node kiem-tra.js"
+  }
+}
